@@ -10,7 +10,7 @@
 "url": "https://drive.google.com/file/d/18PWIBCml4aM2TB9h2SjgFYIHCIZpVqJt/view?usp=drive_link",
 "type": "archive",
 "delete_archive_after_extract": true,
-"extensions": [".7z"]
+"extensions": [".7z", ".zip", ".rar"]
 }
 ]
 }
