@@ -12,7 +12,6 @@
 "delete_archive_after_extract": true,
 "extensions": [".7z", ".zip", ".rar"]
 }
-{
   "id": "snes_starter",
   "system": "snes",
   "name": "SNES Starter Pack",
