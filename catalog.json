@@ -1,23 +1,27 @@
 {
-"id": "nes_starter_pack",
-"system": "nes",
-"name": "NES Starter Pack",
-"size": "CAMBIA_TAMAÑO",
-"description": "Pack de NES para Retro Punks ROM Vault.",
-"url": "https://drive.google.com/file/d/18PWIBCml4aM2TB9h2SjgFYIHCIZpVqJt/view?usp=sharing",
-"type": "archive",
-"delete_archive_after_extract": true,
-"extensions": [".7z", ".zip"]
-},
-{
-"id": "snes_starter_pack",
-"system": "snes",
-"name": "SNES Starter Pack",
-"size": "CAMBIA_TAMAÑO",
-"description": "Pack de SNES para Retro Punks ROM Vault.",
-"url": "https://drive.google.com/file/d/1Gv3ryRn5EucngMdvJygMChcr7a6lvg3m/view?usp=sharing",
-"type": "archive",
-"delete_archive_after_extract": true,
-"extensions": [".7z", ".zip"]
+  "retrobat_root": "E:/RetroBat",
+  "packs": [
+    {
+      "id": "nes_starter_pack",
+      "system": "nes",
+      "name": "NES Starter Pack",
+      "size": "67.7 MB",
+      "description": "Pack NES para Retro Punks ROM Vault.",
+      "url": "https://drive.google.com/file/d/18PWIBCml4aM2TB9h2SjgFYIHCIZpVqJt/view?usp=sharing",
+      "type": "archive",
+      "delete_archive_after_extract": true,
+      "extensions": [".7z", ".zip"]
+    },
+    {
+      "id": "snes_starter_pack",
+      "system": "snes",
+      "name": "SNES Starter Pack",
+      "size": "CAMBIA_TAMAÑO",
+      "description": "Pack SNES para Retro Punks ROM Vault.",
+      "url": "https://drive.google.com/file/d/1Gv3ryRn5EucngMdvJygMChcr7a6lvg3m/view?usp=sharing",
+      "type": "archive",
+      "delete_archive_after_extract": true,
+      "extensions": [".7z", ".zip"]
+    }
+  ]
 }
-
