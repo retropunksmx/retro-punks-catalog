@@ -2,23 +2,6 @@
   "retrobat_root": "E:/RetroBat",
   "catalog_version": "2.0",
   "default_language": "auto",
-  
-  "metadata_provider": "hfsdb",
-
-  "scraper": {
-    "enabled": true,
-    "image_source": "screenshot",
-    "box_source": "box3d",
-    "logo_source": "wheel",
-    "overwrite_names": true,
-    "overwrite_descriptions": true,
-    "overwrite_medias": true,
-    "video": true,
-    "fanart": true,
-    "box_backside": false,
-    "manual": false
-  },
-  
   "packs": [
     {
       "id": "nes_starter_pack",
