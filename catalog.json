@@ -1,0 +1,16 @@
+{
+"retrobat_root": "E:/RetroBat",
+"packs": [
+{
+"id": "nes_test_pack",
+"system": "nes",
+"name": "NES Test Pack",
+"size": "67.7 MB",
+"description": "Pack de prueba Retro Punks.",
+"url": "PEGA_AQUI_TU_ENLACE_DE_GOOGLE_DRIVE",
+"type": "archive",
+"delete_archive_after_extract": true,
+"extensions": [".7z"]
+}
+]
+}
