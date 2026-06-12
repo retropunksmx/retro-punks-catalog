@@ -12,5 +12,16 @@
 "delete_archive_after_extract": true,
 "extensions": [".7z", ".zip", ".rar"]
 }
+{
+  "id": "snes_starter",
+  "system": "snes",
+  "name": "SNES Starter Pack",
+  "size": "350 MB",
+  "description": "Colección básica SNES",
+  "url": "https://drive.google.com/file/d/XXXX/view",
+  "type": "archive",
+  "delete_archive_after_extract": true,
+  "extensions": [".7z", ".zip", ".rar"]
+}
 ]
 }
