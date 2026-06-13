@@ -1,6 +1,6 @@
 {
   "retrobat_root": "E:/RetroBat",
-  "catalog_version": "2.0",
+  "catalog_version": "2.1",
   "default_language": "auto",
   "packs": [
     {
@@ -61,7 +61,7 @@
     "url": "https://drive.google.com/file/d/1SeYSWhFcJFvA0h3IYPhFQZ349qHnXNLe/view?usp=drive_link",
     "type": "archive",
     "archive_format": "7z",
-    "download_size": "CAMBIA_TAMAÑO",
+    "download_size": "4 MB",
     "installed_size": "Opcional",
     "rom_count": "5",
     "version": "1.0",
@@ -79,8 +79,8 @@
     },
     "url": "https://drive.google.com/file/d/1uUA-DfuC-6HmGtDi-VwyeR7fYS7kYwlp/view?usp=drive_link",
     "type": "single",
-    "filename": "1941 - Counter Attack (Japan).sgx",
-    "download_size": "CAMBIA_TAMAÑO"
+    "filename": "1941 - Counter Attack (Japan).pce",
+    "download_size": "1 MB"
   },
   {
     "id": "supergrafx_aldynes_japan",
@@ -91,8 +91,8 @@
     },
     "url": "https://drive.google.com/file/d/1HG3_awIxcgLben_SOyR_OgHsuF6lnrtW/view?usp=drive_link",
     "type": "single",
-    "filename": "Aldynes - The Misson Code for Rage Crisis (Japan).sgx",
-    "download_size": "CAMBIA_TAMAÑO"
+    "filename": "Aldynes - The Misson Code for Rage Crisis (Japan).pce",
+    "download_size": "1 MB"
   },
   {
     "id": "supergrafx_battle_ace_japan",
@@ -103,8 +103,8 @@
     },
     "url": "https://drive.google.com/file/d/1hpS6cPnodQPl5dRScNd8c7H9MHBsnbU-/view?usp=drive_link",
     "type": "single",
-    "filename": "Battle Ace (Japan).sgx",
-    "download_size": "CAMBIA_TAMAÑO"
+    "filename": "Battle Ace (Japan).pce",
+    "download_size": "512 KB"
   },
   {
     "id": "supergrafx_daimakai_mura_japan",
@@ -115,8 +115,8 @@
     },
     "url": "https://drive.google.com/file/d/1V8ceMnpzcDArzvGOCVoti9T27NA-KgKC/view?usp=drive_link",
     "type": "single",
-    "filename": "Daimakai Mura (Japan).sgx",
-    "download_size": "CAMBIA_TAMAÑO"
+    "filename": "Daimakai Mura (Japan).pce",
+    "download_size": "1 MB"
   },
   {
     "id": "supergrafx_madou_king_granzort_japan",
@@ -127,8 +127,8 @@
     },
     "url": "https://drive.google.com/file/d/1qa7JXDa2RREPY8ueHxKlKtC0Rdqa06uk/view?usp=drive_link",
     "type": "single",
-    "filename": "Madou King Granzort (Japan).sgx",
-    "download_size": "CAMBIA_TAMAÑO"
+    "filename": "Madou King Granzort (Japan).pce",
+    "download_size": "512 KB"
   }
 ]
 }
