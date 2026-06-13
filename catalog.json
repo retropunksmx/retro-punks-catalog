@@ -28,7 +28,10 @@
       "rom_count": "803",
       "version": "1.0",
       "delete_archive_after_extract": true,
-      "extensions": [".7z", ".zip"]
+      "extensions": [
+        ".7z",
+        ".zip"
+      ]
     },
     {
       "id": "snes_full_romset",
@@ -55,7 +58,10 @@
       "rom_count": "793",
       "version": "1.0",
       "delete_archive_after_extract": true,
-      "extensions": [".7z", ".zip"]
+      "extensions": [
+        ".7z",
+        ".zip"
+      ]
     }
   ],
   "full_romsets": [
@@ -84,7 +90,10 @@
       "rom_count": "5",
       "version": "1.0",
       "delete_archive_after_extract": true,
-      "extensions": [".7z", ".zip"]
+      "extensions": [
+        ".7z",
+        ".zip"
+      ]
     }
   ],
   "games": [
@@ -101,10 +110,12 @@
       "url": "https://drive.google.com/file/d/1uUA-DfuC-6HmGtDi-VwyeR7fYS7kYwlp/view?usp=drive_link",
       "type": "single",
       "filename": "1941 - Counter Attack (Japan).pce",
-      "download_size": "1 MB"
+      "extension": ".pce",
+      "download_size": "1.00 MB",
+      "file_id": "1uUA-DfuC-6HmGtDi-VwyeR7fYS7kYwlp"
     },
     {
-      "id": "supergrafx_aldynes_japan",
+      "id": "supergrafx_aldynes_the_misson_code_for_rage_crisis_japan",
       "system": "supergrafx",
       "name": {
         "en": "Aldynes - The Misson Code for Rage Crisis (Japan)",
@@ -116,7 +127,9 @@
       "url": "https://drive.google.com/file/d/1HG3_awIxcgLben_SOyR_OgHsuF6lnrtW/view?usp=drive_link",
       "type": "single",
       "filename": "Aldynes - The Misson Code for Rage Crisis (Japan).pce",
-      "download_size": "1 MB"
+      "extension": ".pce",
+      "download_size": "1.00 MB",
+      "file_id": "1HG3_awIxcgLben_SOyR_OgHsuF6lnrtW"
     },
     {
       "id": "supergrafx_battle_ace_japan",
@@ -131,7 +144,9 @@
       "url": "https://drive.google.com/file/d/1hpS6cPnodQPl5dRScNd8c7H9MHBsnbU-/view?usp=drive_link",
       "type": "single",
       "filename": "Battle Ace (Japan).pce",
-      "download_size": "1 MB"
+      "extension": ".pce",
+      "download_size": "512.00 KB",
+      "file_id": "1hpS6cPnodQPl5dRScNd8c7H9MHBsnbU-"
     },
     {
       "id": "supergrafx_daimakai_mura_japan",
@@ -146,7 +161,9 @@
       "url": "https://drive.google.com/file/d/1V8ceMnpzcDArzvGOCVoti9T27NA-KgKC/view?usp=drive_link",
       "type": "single",
       "filename": "Daimakai Mura (Japan).pce",
-      "download_size": "1 MB"
+      "extension": ".pce",
+      "download_size": "1.00 MB",
+      "file_id": "1V8ceMnpzcDArzvGOCVoti9T27NA-KgKC"
     },
     {
       "id": "supergrafx_madou_king_granzort_japan",
@@ -161,7 +178,9 @@
       "url": "https://drive.google.com/file/d/1qa7JXDa2RREPY8ueHxKlKtC0Rdqa06uk/view?usp=drive_link",
       "type": "single",
       "filename": "Madou King Granzort (Japan).pce",
-      "download_size": "1 MB"
+      "extension": ".pce",
+      "download_size": "512.00 KB",
+      "file_id": "1qa7JXDa2RREPY8ueHxKlKtC0Rdqa06uk"
     }
   ]
 }
