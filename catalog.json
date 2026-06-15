@@ -1,6 +1,6 @@
 {
   "retrobat_root": "E:/RetroBat",
-  "catalog_version": "1.6.4",
+  "catalog_version": "1.6.5",
   "default_language": "auto",
   "games": [
     {
@@ -24124,5 +24124,21 @@
       "download_size": "512.00 KB"
     }
   ],
-  "bios": []
+  "bios": [
+    {
+      "id": "retrobat_bios_v8_1_2",
+      "system": "bios",
+      "name": {
+        "en": "RetroBat BIOS v8.1.2",
+        "es": "RetroBat BIOS v8.1.2",
+        "it": "RetroBat BIOS v8.1.2",
+        "fr": "RetroBat BIOS v8.1.2",
+        "pt": "RetroBat BIOS v8.1.2"
+      },
+      "download_key": "retrobat_bios_v8_1_2",
+      "filename": "Retrobat_Bios_v8.1.2.zip",
+      "extension": ".zip",
+      "download_size": "N/A"
+    }
+  ]
 }
