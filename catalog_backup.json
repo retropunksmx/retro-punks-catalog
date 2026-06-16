@@ -1,6 +1,6 @@
 {
   "retrobat_root": "E:/RetroBat",
-  "catalog_version": "1.6.4",
+  "catalog_version": "1.7.0",
   "default_language": "auto",
   "games": [
     {
@@ -12049,6 +12049,156 @@
       "download_size": "40.02 KB"
     },
     {
+      "id": "ngpc_baseball_stars_japan_europe_en_ja",
+      "system": "ngpc",
+      "name": {
+        "en": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "es": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "it": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "fr": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "pt": "Baseball Stars (Japan, Europe) (En,Ja)"
+      },
+      "download_key": "ngpc_baseball_stars_japan_europe_en_ja",
+      "filename": "Baseball Stars (Japan, Europe) (En,Ja).zip",
+      "extension": ".zip",
+      "download_size": "298.73 KB"
+    },
+    {
+      "id": "ngpc_king_of_fighters_r_1_melon_chan_no_seichou_nikki_pocket_fighting_series_japan_demo",
+      "system": "ngpc",
+      "name": {
+        "en": "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo)",
+        "es": "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo)",
+        "it": "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo)",
+        "fr": "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo)",
+        "pt": "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo)"
+      },
+      "download_key": "ngpc_king_of_fighters_r_1_melon_chan_no_seichou_nikki_pocket_fighting_series_japan_demo",
+      "filename": "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo).zip",
+      "extension": ".zip",
+      "download_size": "916.91 KB"
+    },
+    {
+      "id": "ngpc_king_of_fighters_r_1_pocket_fighting_series_japan_europe_en_ja",
+      "system": "ngpc",
+      "name": {
+        "en": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "es": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "it": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "fr": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "pt": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+      },
+      "download_key": "ngpc_king_of_fighters_r_1_pocket_fighting_series_japan_europe_en_ja",
+      "filename": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip",
+      "extension": ".zip",
+      "download_size": "833.60 KB"
+    },
+    {
+      "id": "ngpc_melon_chan_no_seichou_nikki_japan",
+      "system": "ngpc",
+      "name": {
+        "en": "Melon-chan no Seichou Nikki (Japan)",
+        "es": "Melon-chan no Seichou Nikki (Japan)",
+        "it": "Melon-chan no Seichou Nikki (Japan)",
+        "fr": "Melon-chan no Seichou Nikki (Japan)",
+        "pt": "Melon-chan no Seichou Nikki (Japan)"
+      },
+      "download_key": "ngpc_melon_chan_no_seichou_nikki_japan",
+      "filename": "Melon-chan no Seichou Nikki (Japan).zip",
+      "extension": ".zip",
+      "download_size": "549.13 KB"
+    },
+    {
+      "id": "ngpc_neo_cherry_master_real_casino_series_japan_europe_en_ja",
+      "system": "ngpc",
+      "name": {
+        "en": "Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)",
+        "es": "Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)",
+        "it": "Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)",
+        "fr": "Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)",
+        "pt": "Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)"
+      },
+      "download_key": "ngpc_neo_cherry_master_real_casino_series_japan_europe_en_ja",
+      "filename": "Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).zip",
+      "extension": ".zip",
+      "download_size": "112.57 KB"
+    },
+    {
+      "id": "ngpc_neo_geo_cup_98_japan_europe_en_ja",
+      "system": "ngpc",
+      "name": {
+        "en": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
+        "es": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
+        "it": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
+        "fr": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
+        "pt": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+      },
+      "download_key": "ngpc_neo_geo_cup_98_japan_europe_en_ja",
+      "filename": "Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip",
+      "extension": ".zip",
+      "download_size": "438.07 KB"
+    },
+    {
+      "id": "ngpc_pocket_tennis_pocket_sports_series_japan_europe_en_ja",
+      "system": "ngpc",
+      "name": {
+        "en": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+        "es": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+        "it": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+        "fr": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+        "pt": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+      },
+      "download_key": "ngpc_pocket_tennis_pocket_sports_series_japan_europe_en_ja",
+      "filename": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip",
+      "extension": ".zip",
+      "download_size": "156.08 KB"
+    },
+    {
+      "id": "ngpc_renketsu_puzzle_tsunagete_pon_japan",
+      "system": "ngpc",
+      "name": {
+        "en": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+        "es": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+        "it": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+        "fr": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+        "pt": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+      },
+      "download_key": "ngpc_renketsu_puzzle_tsunagete_pon_japan",
+      "filename": "Renketsu Puzzle Tsunagete Pon! (Japan).zip",
+      "extension": ".zip",
+      "download_size": "135.31 KB"
+    },
+    {
+      "id": "ngpc_samurai_shodown_pocket_fighting_series_japan_europe_en_ja",
+      "system": "ngpc",
+      "name": {
+        "en": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "es": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "it": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "fr": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+        "pt": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+      },
+      "download_key": "ngpc_samurai_shodown_pocket_fighting_series_japan_europe_en_ja",
+      "filename": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip",
+      "extension": ".zip",
+      "download_size": "831.49 KB"
+    },
+    {
+      "id": "ngpc_shougi_no_tatsujin_japan",
+      "system": "ngpc",
+      "name": {
+        "en": "Shougi no Tatsujin (Japan)",
+        "es": "Shougi no Tatsujin (Japan)",
+        "it": "Shougi no Tatsujin (Japan)",
+        "fr": "Shougi no Tatsujin (Japan)",
+        "pt": "Shougi no Tatsujin (Japan)"
+      },
+      "download_key": "ngpc_shougi_no_tatsujin_japan",
+      "filename": "Shougi no Tatsujin (Japan).zip",
+      "extension": ".zip",
+      "download_size": "184.29 KB"
+    },
+    {
       "id": "snes_2020_super_baseball_usa",
       "system": "snes",
       "name": {
@@ -23979,19 +24129,16 @@
       "id": "retrobat_bios_v8_1_2",
       "system": "bios",
       "name": {
-        "en": "RetroBat BIOS Pack v8.1.2",
-        "es": "Pack de BIOS RetroBat v8.1.2",
-        "it": "Pacchetto BIOS RetroBat v8.1.2",
-        "fr": "Pack BIOS RetroBat v8.1.2",
-        "pt": "Pacote BIOS RetroBat v8.1.2"
+        "en": "RetroBat BIOS v8.1.2",
+        "es": "RetroBat BIOS v8.1.2",
+        "it": "RetroBat BIOS v8.1.2",
+        "fr": "RetroBat BIOS v8.1.2",
+        "pt": "RetroBat BIOS v8.1.2"
       },
       "download_key": "retrobat_bios_v8_1_2",
       "filename": "Retrobat_Bios_v8.1.2.zip",
       "extension": ".zip",
-      "archive_format": "zip",
-      "download_size": "N/A",
-      "install_to": "retrobat_root",
-      "delete_archive_after_extract": true
+      "download_size": "N/A"
     }
   ]
 }
