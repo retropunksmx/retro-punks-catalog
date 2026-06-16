@@ -12084,79 +12084,84 @@
       "download_size": "512.00 KB"
     },
     {
-      "id": "supergrafx_sgx_0001",
+      "id": "supergrafx_1941_counter_attack_japan",
       "system": "supergrafx",
       "name": {
-        "en": "sgx_0001",
-        "es": "sgx_0001",
-        "it": "sgx_0001",
-        "fr": "sgx_0001",
-        "pt": "sgx_0001"
+        "en": "1941 - Counter Attack (Japan)",
+        "es": "1941 - Counter Attack (Japan)",
+        "it": "1941 - Counter Attack (Japan)",
+        "fr": "1941 - Counter Attack (Japan)",
+        "pt": "1941 - Counter Attack (Japan)"
       },
-      "download_key": "supergrafx_sgx_0001",
-      "filename": "sgx_0001.7z",
-      "extension": ".7z",
-      "download_size": "583.96 KB"
+      "download_key": "supergrafx_1941_counter_attack_japan",
+      "filename": "1941 - Counter Attack (Japan).pce",
+      "extension": ".pce",
+      "download_size": "583.96 KB",
+      "cloud_alias": "sgx_0001"
     },
     {
-      "id": "supergrafx_sgx_0002",
+      "id": "supergrafx_aldynes_the_mission_code_for_rage_crisis_japan",
       "system": "supergrafx",
       "name": {
-        "en": "sgx_0002",
-        "es": "sgx_0002",
-        "it": "sgx_0002",
-        "fr": "sgx_0002",
-        "pt": "sgx_0002"
+        "en": "Aldynes - The Mission Code for Rage Crisis (Japan)",
+        "es": "Aldynes - The Mission Code for Rage Crisis (Japan)",
+        "it": "Aldynes - The Mission Code for Rage Crisis (Japan)",
+        "fr": "Aldynes - The Mission Code for Rage Crisis (Japan)",
+        "pt": "Aldynes - The Mission Code for Rage Crisis (Japan)"
       },
-      "download_key": "supergrafx_sgx_0002",
-      "filename": "sgx_0002.7z",
-      "extension": ".7z",
-      "download_size": "433.75 KB"
+      "download_key": "supergrafx_aldynes_the_mission_code_for_rage_crisis_japan",
+      "filename": "Aldynes - The Mission Code for Rage Crisis (Japan).pce",
+      "extension": ".pce",
+      "download_size": "433.75 KB",
+      "cloud_alias": "sgx_0002"
     },
     {
-      "id": "supergrafx_sgx_0003",
+      "id": "supergrafx_battle_ace_japan",
       "system": "supergrafx",
       "name": {
-        "en": "sgx_0003",
-        "es": "sgx_0003",
-        "it": "sgx_0003",
-        "fr": "sgx_0003",
-        "pt": "sgx_0003"
+        "en": "Battle Ace (Japan)",
+        "es": "Battle Ace (Japan)",
+        "it": "Battle Ace (Japan)",
+        "fr": "Battle Ace (Japan)",
+        "pt": "Battle Ace (Japan)"
       },
-      "download_key": "supergrafx_sgx_0003",
-      "filename": "sgx_0003.7z",
-      "extension": ".7z",
-      "download_size": "277.33 KB"
+      "download_key": "supergrafx_battle_ace_japan",
+      "filename": "Battle Ace (Japan).pce",
+      "extension": ".pce",
+      "download_size": "277.33 KB",
+      "cloud_alias": "sgx_0003"
     },
     {
-      "id": "supergrafx_sgx_0004",
+      "id": "supergrafx_daimakaimura_japan",
       "system": "supergrafx",
       "name": {
-        "en": "sgx_0004",
-        "es": "sgx_0004",
-        "it": "sgx_0004",
-        "fr": "sgx_0004",
-        "pt": "sgx_0004"
+        "en": "Daimakaimura (Japan)",
+        "es": "Daimakaimura (Japan)",
+        "it": "Daimakaimura (Japan)",
+        "fr": "Daimakaimura (Japan)",
+        "pt": "Daimakaimura (Japan)"
       },
-      "download_key": "supergrafx_sgx_0004",
-      "filename": "sgx_0004.7z",
-      "extension": ".7z",
-      "download_size": "620.47 KB"
+      "download_key": "supergrafx_daimakaimura_japan",
+      "filename": "Daimakaimura (Japan).pce",
+      "extension": ".pce",
+      "download_size": "620.47 KB",
+      "cloud_alias": "sgx_0004"
     },
     {
-      "id": "supergrafx_sgx_0005",
+      "id": "supergrafx_madou_king_granzort_japan",
       "system": "supergrafx",
       "name": {
-        "en": "sgx_0005",
-        "es": "sgx_0005",
-        "it": "sgx_0005",
-        "fr": "sgx_0005",
-        "pt": "sgx_0005"
+        "en": "Madou King Granzort (Japan)",
+        "es": "Madou King Granzort (Japan)",
+        "it": "Madou King Granzort (Japan)",
+        "fr": "Madou King Granzort (Japan)",
+        "pt": "Madou King Granzort (Japan)"
       },
-      "download_key": "supergrafx_sgx_0005",
-      "filename": "sgx_0005.7z",
-      "extension": ".7z",
-      "download_size": "324.39 KB"
+      "download_key": "supergrafx_madou_king_granzort_japan",
+      "filename": "Madou King Granzort (Japan).pce",
+      "extension": ".pce",
+      "download_size": "324.39 KB",
+      "cloud_alias": "sgx_0005"
     }
   ],
   "bios": [
