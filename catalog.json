@@ -4,34 +4,34 @@
   "default_language": "auto",
   "games": [
     {
-      "id": "nes_10_yard_fight_usa",
+      "id": "nes_10_yard_fight_usa_europe",
       "system": "nes",
       "name": {
-        "en": "10-Yard Fight (USA",
-        "es": "10-Yard Fight (USA",
-        "it": "10-Yard Fight (USA",
-        "fr": "10-Yard Fight (USA",
-        "pt": "10-Yard Fight (USA"
+        "en": "10-Yard Fight (USA, Europe)",
+        "es": "10-Yard Fight (USA, Europe)",
+        "it": "10-Yard Fight (USA, Europe)",
+        "fr": "10-Yard Fight (USA, Europe)",
+        "pt": "10-Yard Fight (USA, Europe)"
       },
-      "download_key": "nes_10_yard_fight_usa",
-      "filename": "10-Yard Fight (USA",
-      "extension": "",
+      "download_key": "nes_10_yard_fight_usa_europe",
+      "filename": "10-Yard Fight (USA, Europe).nes",
+      "extension": ".nes",
       "download_size": "14.92 KB",
       "cloud_alias": "nes_0001"
     },
     {
-      "id": "nes_1942_japan",
+      "id": "nes_1942_japan_usa",
       "system": "nes",
       "name": {
-        "en": "1942 (Japan",
-        "es": "1942 (Japan",
-        "it": "1942 (Japan",
-        "fr": "1942 (Japan",
-        "pt": "1942 (Japan"
+        "en": "1942 (Japan, USA)",
+        "es": "1942 (Japan, USA)",
+        "it": "1942 (Japan, USA)",
+        "fr": "1942 (Japan, USA)",
+        "pt": "1942 (Japan, USA)"
       },
-      "download_key": "nes_1942_japan",
-      "filename": "1942 (Japan",
-      "extension": "",
+      "download_key": "nes_1942_japan_usa",
+      "filename": "1942 (Japan, USA).nes",
+      "extension": ".nes",
       "download_size": "22.22 KB",
       "cloud_alias": "nes_0002"
     },
