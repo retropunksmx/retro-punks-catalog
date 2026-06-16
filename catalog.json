@@ -4,49 +4,84 @@
   "default_language": "auto",
   "games": [
     {
-      "id": "nes_nes_0001",
+      "id": "nes_10_yard_fight_usa",
       "system": "nes",
       "name": {
-        "en": "nes_0001",
-        "es": "nes_0001",
-        "it": "nes_0001",
-        "fr": "nes_0001",
-        "pt": "nes_0001"
+        "en": "10-Yard Fight (USA",
+        "es": "10-Yard Fight (USA",
+        "it": "10-Yard Fight (USA",
+        "fr": "10-Yard Fight (USA",
+        "pt": "10-Yard Fight (USA"
       },
-      "download_key": "nes_nes_0001",
-      "filename": "nes_0001.7z",
-      "extension": ".7z",
-      "download_size": "14.92 KB"
+      "download_key": "nes_10_yard_fight_usa",
+      "filename": "10-Yard Fight (USA",
+      "extension": "",
+      "download_size": "14.92 KB",
+      "cloud_alias": "nes_0001"
     },
     {
-      "id": "nes_nes_0002",
+      "id": "nes_1942_japan",
       "system": "nes",
       "name": {
-        "en": "nes_0002",
-        "es": "nes_0002",
-        "it": "nes_0002",
-        "fr": "nes_0002",
-        "pt": "nes_0002"
+        "en": "1942 (Japan",
+        "es": "1942 (Japan",
+        "it": "1942 (Japan",
+        "fr": "1942 (Japan",
+        "pt": "1942 (Japan"
       },
-      "download_key": "nes_nes_0002",
-      "filename": "nes_0002.7z",
-      "extension": ".7z",
-      "download_size": "22.22 KB"
+      "download_key": "nes_1942_japan",
+      "filename": "1942 (Japan",
+      "extension": "",
+      "download_size": "22.22 KB",
+      "cloud_alias": "nes_0002"
     },
     {
-      "id": "nes_nes_0003",
+      "id": "nes_3_d_worldrunner_usa",
       "system": "nes",
       "name": {
-        "en": "nes_0003",
-        "es": "nes_0003",
-        "it": "nes_0003",
-        "fr": "nes_0003",
-        "pt": "nes_0003"
+        "en": "3-D WorldRunner (USA)",
+        "es": "3-D WorldRunner (USA)",
+        "it": "3-D WorldRunner (USA)",
+        "fr": "3-D WorldRunner (USA)",
+        "pt": "3-D WorldRunner (USA)"
       },
-      "download_key": "nes_nes_0003",
-      "filename": "nes_0003.7z",
-      "extension": ".7z",
-      "download_size": "69.19 KB"
+      "download_key": "nes_3_d_worldrunner_usa",
+      "filename": "3-D WorldRunner (USA).nes",
+      "extension": ".nes",
+      "download_size": "39.78 KB",
+      "cloud_alias": "nes_0003"
+    },
+    {
+      "id": "nes_720_degrees_usa",
+      "system": "nes",
+      "name": {
+        "en": "720 Degrees (USA)",
+        "es": "720 Degrees (USA)",
+        "it": "720 Degrees (USA)",
+        "fr": "720 Degrees (USA)",
+        "pt": "720 Degrees (USA)"
+      },
+      "download_key": "nes_720_degrees_usa",
+      "filename": "720 Degrees (USA).nes",
+      "extension": ".nes",
+      "download_size": "63.96 KB",
+      "cloud_alias": "nes_0004"
+    },
+    {
+      "id": "nes_8_eyes_usa",
+      "system": "nes",
+      "name": {
+        "en": "8 Eyes (USA)",
+        "es": "8 Eyes (USA)",
+        "it": "8 Eyes (USA)",
+        "fr": "8 Eyes (USA)",
+        "pt": "8 Eyes (USA)"
+      },
+      "download_key": "nes_8_eyes_usa",
+      "filename": "8 Eyes (USA).nes",
+      "extension": ".nes",
+      "download_size": "79.30 KB",
+      "cloud_alias": "nes_0005"
     },
     {
       "id": "ngpc_baseball_stars_japan_europe_en_ja",
