@@ -75377,6 +75377,81 @@
       "filename": "Zootto Mahjong! (Japan) (NP).7z",
       "extension": ".7z",
       "download_size": "1.26 MB"
+    },
+    {
+      "id": "supergrafx_1941_counter_attack_japan",
+      "system": "supergrafx",
+      "name": {
+        "en": "1941 - Counter Attack (Japan)",
+        "es": "1941 - Counter Attack (Japan)",
+        "it": "1941 - Counter Attack (Japan)",
+        "fr": "1941 - Counter Attack (Japan)",
+        "pt": "1941 - Counter Attack (Japan)"
+      },
+      "download_key": "supergrafx_1941_counter_attack_japan",
+      "filename": "1941 - Counter Attack (Japan).7z",
+      "extension": ".7z",
+      "download_size": "584.33 KB"
+    },
+    {
+      "id": "supergrafx_aldynes_the_misson_code_for_rage_crisis_japan",
+      "system": "supergrafx",
+      "name": {
+        "en": "Aldynes - The Misson Code for Rage Crisis (Japan)",
+        "es": "Aldynes - The Misson Code for Rage Crisis (Japan)",
+        "it": "Aldynes - The Misson Code for Rage Crisis (Japan)",
+        "fr": "Aldynes - The Misson Code for Rage Crisis (Japan)",
+        "pt": "Aldynes - The Misson Code for Rage Crisis (Japan)"
+      },
+      "download_key": "supergrafx_aldynes_the_misson_code_for_rage_crisis_japan",
+      "filename": "Aldynes - The Misson Code for Rage Crisis (Japan).7z",
+      "extension": ".7z",
+      "download_size": "434.52 KB"
+    },
+    {
+      "id": "supergrafx_battle_ace_japan",
+      "system": "supergrafx",
+      "name": {
+        "en": "Battle Ace (Japan)",
+        "es": "Battle Ace (Japan)",
+        "it": "Battle Ace (Japan)",
+        "fr": "Battle Ace (Japan)",
+        "pt": "Battle Ace (Japan)"
+      },
+      "download_key": "supergrafx_battle_ace_japan",
+      "filename": "Battle Ace (Japan).7z",
+      "extension": ".7z",
+      "download_size": "277.35 KB"
+    },
+    {
+      "id": "supergrafx_daimakai_mura_japan",
+      "system": "supergrafx",
+      "name": {
+        "en": "Daimakai Mura (Japan)",
+        "es": "Daimakai Mura (Japan)",
+        "it": "Daimakai Mura (Japan)",
+        "fr": "Daimakai Mura (Japan)",
+        "pt": "Daimakai Mura (Japan)"
+      },
+      "download_key": "supergrafx_daimakai_mura_japan",
+      "filename": "Daimakai Mura (Japan).7z",
+      "extension": ".7z",
+      "download_size": "620.74 KB"
+    },
+    {
+      "id": "supergrafx_madou_king_granzort_japan",
+      "system": "supergrafx",
+      "name": {
+        "en": "Madou King Granzort (Japan)",
+        "es": "Madou King Granzort (Japan)",
+        "it": "Madou King Granzort (Japan)",
+        "fr": "Madou King Granzort (Japan)",
+        "pt": "Madou King Granzort (Japan)"
+      },
+      "download_key": "supergrafx_madou_king_granzort_japan",
+      "filename": "Madou King Granzort (Japan).7z",
+      "extension": ".7z",
+      "download_size": "324.42 KB"
     }
   ],
   "bios": [
