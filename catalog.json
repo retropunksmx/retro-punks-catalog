@@ -33692,23 +33692,16 @@
       "filename": "Zunou Senkan Galg (Japan) (En).7z",
       "extension": ".7z",
       "download_size": "26.74 KB"
-    }
-  ],
-  "bios": [
+    },
     {
-      "id": "retrobat_bios_v8_1_2",
-      "system": "bios",
+      "id": "ngpc_baseball_stars_japan_europe_en_ja",
+      "system": "ngpc",
       "name": {
-        "en": "RetroBat BIOS v8.1.2",
-        "es": "RetroBat BIOS v8.1.2",
-        "it": "RetroBat BIOS v8.1.2",
-        "fr": "RetroBat BIOS v8.1.2",
-        "pt": "RetroBat BIOS v8.1.2"
+        "en": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "es": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "it": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "fr": "Baseball Stars (Japan, Europe) (En,Ja)",
+        "pt": "Baseball Stars (Japan, Europe) (En,Ja)"
       },
-      "download_key": "retrobat_bios_v8_1_2",
-      "filename": "Retrobat_Bios_v8.1.2.zip",
-      "extension": ".zip",
-      "download_size": "N/A"
-    }
-  ]
-}
+      "download_key": "ngpc_baseball_stars_japan_europe_en_ja",
+      "fil
