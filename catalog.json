@@ -141589,8 +141589,8 @@
       "download_size": "324.42 KB"
     },
     {
-      "id": "vb_3_d_tetris_usa",
-      "system": "vb",
+      "id": "virtualboy_3_d_tetris_usa",
+      "system": "virtualboy",
       "name": {
         "en": "3-D Tetris (USA)",
         "es": "3-D Tetris (USA)",
@@ -141598,14 +141598,14 @@
         "fr": "3-D Tetris (USA)",
         "pt": "3-D Tetris (USA)"
       },
-      "download_key": "vb_3_d_tetris_usa",
+      "download_key": "virtualboy_3_d_tetris_usa",
       "filename": "3-D Tetris (USA).7z",
       "extension": ".7z",
       "download_size": "210.66 KB"
     },
     {
-      "id": "vb_bound_high_unknown_proto",
-      "system": "vb",
+      "id": "virtualboy_bound_high_unknown_proto",
+      "system": "virtualboy",
       "name": {
         "en": "Bound High (Unknown) (Proto)",
         "es": "Bound High (Unknown) (Proto)",
@@ -141613,14 +141613,14 @@
         "fr": "Bound High (Unknown) (Proto)",
         "pt": "Bound High (Unknown) (Proto)"
       },
-      "download_key": "vb_bound_high_unknown_proto",
+      "download_key": "virtualboy_bound_high_unknown_proto",
       "filename": "Bound High (Unknown) (Proto).7z",
       "extension": ".7z",
       "download_size": "227.96 KB"
     },
     {
-      "id": "vb_galactic_pinball_japan_usa",
-      "system": "vb",
+      "id": "virtualboy_galactic_pinball_japan_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Galactic Pinball (Japan, USA)",
         "es": "Galactic Pinball (Japan, USA)",
@@ -141628,14 +141628,14 @@
         "fr": "Galactic Pinball (Japan, USA)",
         "pt": "Galactic Pinball (Japan, USA)"
       },
-      "download_key": "vb_galactic_pinball_japan_usa",
+      "download_key": "virtualboy_galactic_pinball_japan_usa",
       "filename": "Galactic Pinball (Japan, USA).7z",
       "extension": ".7z",
       "download_size": "343.81 KB"
     },
     {
-      "id": "vb_golf_usa",
-      "system": "vb",
+      "id": "virtualboy_golf_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Golf (USA)",
         "es": "Golf (USA)",
@@ -141643,14 +141643,14 @@
         "fr": "Golf (USA)",
         "pt": "Golf (USA)"
       },
-      "download_key": "vb_golf_usa",
+      "download_key": "virtualboy_golf_usa",
       "filename": "Golf (USA).7z",
       "extension": ".7z",
       "download_size": "454.11 KB"
     },
     {
-      "id": "vb_innsmouth_no_yakata_japan",
-      "system": "vb",
+      "id": "virtualboy_innsmouth_no_yakata_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Innsmouth no Yakata (Japan)",
         "es": "Innsmouth no Yakata (Japan)",
@@ -141658,14 +141658,14 @@
         "fr": "Innsmouth no Yakata (Japan)",
         "pt": "Innsmouth no Yakata (Japan)"
       },
-      "download_key": "vb_innsmouth_no_yakata_japan",
+      "download_key": "virtualboy_innsmouth_no_yakata_japan",
       "filename": "Innsmouth no Yakata (Japan).7z",
       "extension": ".7z",
       "download_size": "167.16 KB"
     },
     {
-      "id": "vb_jack_bros_usa",
-      "system": "vb",
+      "id": "virtualboy_jack_bros_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Jack Bros. (USA)",
         "es": "Jack Bros. (USA)",
@@ -141673,14 +141673,14 @@
         "fr": "Jack Bros. (USA)",
         "pt": "Jack Bros. (USA)"
       },
-      "download_key": "vb_jack_bros_usa",
+      "download_key": "virtualboy_jack_bros_usa",
       "filename": "Jack Bros. (USA).7z",
       "extension": ".7z",
       "download_size": "307.46 KB"
     },
     {
-      "id": "vb_jack_bros_no_meiro_de_hiihoo_japan",
-      "system": "vb",
+      "id": "virtualboy_jack_bros_no_meiro_de_hiihoo_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Jack Bros. no Meiro de Hiihoo! (Japan)",
         "es": "Jack Bros. no Meiro de Hiihoo! (Japan)",
@@ -141688,14 +141688,14 @@
         "fr": "Jack Bros. no Meiro de Hiihoo! (Japan)",
         "pt": "Jack Bros. no Meiro de Hiihoo! (Japan)"
       },
-      "download_key": "vb_jack_bros_no_meiro_de_hiihoo_japan",
+      "download_key": "virtualboy_jack_bros_no_meiro_de_hiihoo_japan",
       "filename": "Jack Bros. no Meiro de Hiihoo! (Japan).7z",
       "extension": ".7z",
       "download_size": "349.21 KB"
     },
     {
-      "id": "vb_mario_clash_japan_usa",
-      "system": "vb",
+      "id": "virtualboy_mario_clash_japan_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Mario Clash (Japan, USA)",
         "es": "Mario Clash (Japan, USA)",
@@ -141703,14 +141703,14 @@
         "fr": "Mario Clash (Japan, USA)",
         "pt": "Mario Clash (Japan, USA)"
       },
-      "download_key": "vb_mario_clash_japan_usa",
+      "download_key": "virtualboy_mario_clash_japan_usa",
       "filename": "Mario Clash (Japan, USA).7z",
       "extension": ".7z",
       "download_size": "227.49 KB"
     },
     {
-      "id": "vb_mario_s_tennis_japan_usa",
-      "system": "vb",
+      "id": "virtualboy_mario_s_tennis_japan_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Mario's Tennis (Japan, USA)",
         "es": "Mario's Tennis (Japan, USA)",
@@ -141718,14 +141718,14 @@
         "fr": "Mario's Tennis (Japan, USA)",
         "pt": "Mario's Tennis (Japan, USA)"
       },
-      "download_key": "vb_mario_s_tennis_japan_usa",
+      "download_key": "virtualboy_mario_s_tennis_japan_usa",
       "filename": "Mario's Tennis (Japan, USA).7z",
       "extension": ".7z",
       "download_size": "281.35 KB"
     },
     {
-      "id": "vb_nester_s_funky_bowling_usa",
-      "system": "vb",
+      "id": "virtualboy_nester_s_funky_bowling_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Nester's Funky Bowling (USA)",
         "es": "Nester's Funky Bowling (USA)",
@@ -141733,14 +141733,14 @@
         "fr": "Nester's Funky Bowling (USA)",
         "pt": "Nester's Funky Bowling (USA)"
       },
-      "download_key": "vb_nester_s_funky_bowling_usa",
+      "download_key": "virtualboy_nester_s_funky_bowling_usa",
       "filename": "Nester's Funky Bowling (USA).7z",
       "extension": ".7z",
       "download_size": "517.64 KB"
     },
     {
-      "id": "vb_niko_chan_battle_japan_proto",
-      "system": "vb",
+      "id": "virtualboy_niko_chan_battle_japan_proto",
+      "system": "virtualboy",
       "name": {
         "en": "Niko-chan Battle (Japan) (Proto)",
         "es": "Niko-chan Battle (Japan) (Proto)",
@@ -141748,14 +141748,14 @@
         "fr": "Niko-chan Battle (Japan) (Proto)",
         "pt": "Niko-chan Battle (Japan) (Proto)"
       },
-      "download_key": "vb_niko_chan_battle_japan_proto",
+      "download_key": "virtualboy_niko_chan_battle_japan_proto",
       "filename": "Niko-chan Battle (Japan) (Proto).7z",
       "extension": ".7z",
       "download_size": "274.10 KB"
     },
     {
-      "id": "vb_panic_bomber_usa",
-      "system": "vb",
+      "id": "virtualboy_panic_bomber_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Panic Bomber (USA)",
         "es": "Panic Bomber (USA)",
@@ -141763,14 +141763,14 @@
         "fr": "Panic Bomber (USA)",
         "pt": "Panic Bomber (USA)"
       },
-      "download_key": "vb_panic_bomber_usa",
+      "download_key": "virtualboy_panic_bomber_usa",
       "filename": "Panic Bomber (USA).7z",
       "extension": ".7z",
       "download_size": "261.80 KB"
     },
     {
-      "id": "vb_red_alarm_japan",
-      "system": "vb",
+      "id": "virtualboy_red_alarm_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Red Alarm (Japan)",
         "es": "Red Alarm (Japan)",
@@ -141778,14 +141778,14 @@
         "fr": "Red Alarm (Japan)",
         "pt": "Red Alarm (Japan)"
       },
-      "download_key": "vb_red_alarm_japan",
+      "download_key": "virtualboy_red_alarm_japan",
       "filename": "Red Alarm (Japan).7z",
       "extension": ".7z",
       "download_size": "182.55 KB"
     },
     {
-      "id": "vb_red_alarm_usa",
-      "system": "vb",
+      "id": "virtualboy_red_alarm_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Red Alarm (USA)",
         "es": "Red Alarm (USA)",
@@ -141793,14 +141793,14 @@
         "fr": "Red Alarm (USA)",
         "pt": "Red Alarm (USA)"
       },
-      "download_key": "vb_red_alarm_usa",
+      "download_key": "virtualboy_red_alarm_usa",
       "filename": "Red Alarm (USA).7z",
       "extension": ".7z",
       "download_size": "182.13 KB"
     },
     {
-      "id": "vb_sd_gundam_dimension_war_japan",
-      "system": "vb",
+      "id": "virtualboy_sd_gundam_dimension_war_japan",
+      "system": "virtualboy",
       "name": {
         "en": "SD Gundam - Dimension War (Japan)",
         "es": "SD Gundam - Dimension War (Japan)",
@@ -141808,14 +141808,14 @@
         "fr": "SD Gundam - Dimension War (Japan)",
         "pt": "SD Gundam - Dimension War (Japan)"
       },
-      "download_key": "vb_sd_gundam_dimension_war_japan",
+      "download_key": "virtualboy_sd_gundam_dimension_war_japan",
       "filename": "SD Gundam - Dimension War (Japan).7z",
       "extension": ".7z",
       "download_size": "288.13 KB"
     },
     {
-      "id": "vb_space_invaders_virtual_collection_japan",
-      "system": "vb",
+      "id": "virtualboy_space_invaders_virtual_collection_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Space Invaders - Virtual Collection (Japan)",
         "es": "Space Invaders - Virtual Collection (Japan)",
@@ -141823,14 +141823,14 @@
         "fr": "Space Invaders - Virtual Collection (Japan)",
         "pt": "Space Invaders - Virtual Collection (Japan)"
       },
-      "download_key": "vb_space_invaders_virtual_collection_japan",
+      "download_key": "virtualboy_space_invaders_virtual_collection_japan",
       "filename": "Space Invaders - Virtual Collection (Japan).7z",
       "extension": ".7z",
       "download_size": "205.08 KB"
     },
     {
-      "id": "vb_space_pinball_unknown_proto",
-      "system": "vb",
+      "id": "virtualboy_space_pinball_unknown_proto",
+      "system": "virtualboy",
       "name": {
         "en": "Space Pinball (Unknown) (Proto)",
         "es": "Space Pinball (Unknown) (Proto)",
@@ -141838,14 +141838,14 @@
         "fr": "Space Pinball (Unknown) (Proto)",
         "pt": "Space Pinball (Unknown) (Proto)"
       },
-      "download_key": "vb_space_pinball_unknown_proto",
+      "download_key": "virtualboy_space_pinball_unknown_proto",
       "filename": "Space Pinball (Unknown) (Proto).7z",
       "extension": ".7z",
       "download_size": "224.77 KB"
     },
     {
-      "id": "vb_space_squash_japan",
-      "system": "vb",
+      "id": "virtualboy_space_squash_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Space Squash (Japan)",
         "es": "Space Squash (Japan)",
@@ -141853,14 +141853,14 @@
         "fr": "Space Squash (Japan)",
         "pt": "Space Squash (Japan)"
       },
-      "download_key": "vb_space_squash_japan",
+      "download_key": "virtualboy_space_squash_japan",
       "filename": "Space Squash (Japan).7z",
       "extension": ".7z",
       "download_size": "191.05 KB"
     },
     {
-      "id": "vb_t_e_virtual_golf_japan",
-      "system": "vb",
+      "id": "virtualboy_t_e_virtual_golf_japan",
+      "system": "virtualboy",
       "name": {
         "en": "T&E Virtual Golf (Japan)",
         "es": "T&E Virtual Golf (Japan)",
@@ -141868,14 +141868,14 @@
         "fr": "T&E Virtual Golf (Japan)",
         "pt": "T&E Virtual Golf (Japan)"
       },
-      "download_key": "vb_t_e_virtual_golf_japan",
+      "download_key": "virtualboy_t_e_virtual_golf_japan",
       "filename": "T&E Virtual Golf (Japan).7z",
       "extension": ".7z",
       "download_size": "450.88 KB"
     },
     {
-      "id": "vb_teleroboxer_japan_usa",
-      "system": "vb",
+      "id": "virtualboy_teleroboxer_japan_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Teleroboxer (Japan, USA)",
         "es": "Teleroboxer (Japan, USA)",
@@ -141883,14 +141883,14 @@
         "fr": "Teleroboxer (Japan, USA)",
         "pt": "Teleroboxer (Japan, USA)"
       },
-      "download_key": "vb_teleroboxer_japan_usa",
+      "download_key": "virtualboy_teleroboxer_japan_usa",
       "filename": "Teleroboxer (Japan, USA).7z",
       "extension": ".7z",
       "download_size": "329.46 KB"
     },
     {
-      "id": "vb_tobidase_panibon_japan",
-      "system": "vb",
+      "id": "virtualboy_tobidase_panibon_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Tobidase! Panibon (Japan)",
         "es": "Tobidase! Panibon (Japan)",
@@ -141898,14 +141898,14 @@
         "fr": "Tobidase! Panibon (Japan)",
         "pt": "Tobidase! Panibon (Japan)"
       },
-      "download_key": "vb_tobidase_panibon_japan",
+      "download_key": "virtualboy_tobidase_panibon_japan",
       "filename": "Tobidase! Panibon (Japan).7z",
       "extension": ".7z",
       "download_size": "261.55 KB"
     },
     {
-      "id": "vb_v_tetris_japan",
-      "system": "vb",
+      "id": "virtualboy_v_tetris_japan",
+      "system": "virtualboy",
       "name": {
         "en": "V-Tetris (Japan)",
         "es": "V-Tetris (Japan)",
@@ -141913,14 +141913,14 @@
         "fr": "V-Tetris (Japan)",
         "pt": "V-Tetris (Japan)"
       },
-      "download_key": "vb_v_tetris_japan",
+      "download_key": "virtualboy_v_tetris_japan",
       "filename": "V-Tetris (Japan).7z",
       "extension": ".7z",
       "download_size": "80.58 KB"
     },
     {
-      "id": "vb_vertical_force_japan",
-      "system": "vb",
+      "id": "virtualboy_vertical_force_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Vertical Force (Japan)",
         "es": "Vertical Force (Japan)",
@@ -141928,14 +141928,14 @@
         "fr": "Vertical Force (Japan)",
         "pt": "Vertical Force (Japan)"
       },
-      "download_key": "vb_vertical_force_japan",
+      "download_key": "virtualboy_vertical_force_japan",
       "filename": "Vertical Force (Japan).7z",
       "extension": ".7z",
       "download_size": "309.53 KB"
     },
     {
-      "id": "vb_vertical_force_usa",
-      "system": "vb",
+      "id": "virtualboy_vertical_force_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Vertical Force (USA)",
         "es": "Vertical Force (USA)",
@@ -141943,14 +141943,14 @@
         "fr": "Vertical Force (USA)",
         "pt": "Vertical Force (USA)"
       },
-      "download_key": "vb_vertical_force_usa",
+      "download_key": "virtualboy_vertical_force_usa",
       "filename": "Vertical Force (USA).7z",
       "extension": ".7z",
       "download_size": "309.69 KB"
     },
     {
-      "id": "vb_virtual_bowling_japan",
-      "system": "vb",
+      "id": "virtualboy_virtual_bowling_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Virtual Bowling (Japan)",
         "es": "Virtual Bowling (Japan)",
@@ -141958,14 +141958,14 @@
         "fr": "Virtual Bowling (Japan)",
         "pt": "Virtual Bowling (Japan)"
       },
-      "download_key": "vb_virtual_bowling_japan",
+      "download_key": "virtualboy_virtual_bowling_japan",
       "filename": "Virtual Bowling (Japan).7z",
       "extension": ".7z",
       "download_size": "284.21 KB"
     },
     {
-      "id": "vb_virtual_boy_wario_land_japan_usa",
-      "system": "vb",
+      "id": "virtualboy_virtual_boy_wario_land_japan_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Virtual Boy Wario Land (Japan, USA)",
         "es": "Virtual Boy Wario Land (Japan, USA)",
@@ -141973,14 +141973,14 @@
         "fr": "Virtual Boy Wario Land (Japan, USA)",
         "pt": "Virtual Boy Wario Land (Japan, USA)"
       },
-      "download_key": "vb_virtual_boy_wario_land_japan_usa",
+      "download_key": "virtualboy_virtual_boy_wario_land_japan_usa",
       "filename": "Virtual Boy Wario Land (Japan, USA).7z",
       "extension": ".7z",
       "download_size": "567.22 KB"
     },
     {
-      "id": "vb_virtual_fishing_japan",
-      "system": "vb",
+      "id": "virtualboy_virtual_fishing_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Virtual Fishing (Japan)",
         "es": "Virtual Fishing (Japan)",
@@ -141988,14 +141988,14 @@
         "fr": "Virtual Fishing (Japan)",
         "pt": "Virtual Fishing (Japan)"
       },
-      "download_key": "vb_virtual_fishing_japan",
+      "download_key": "virtualboy_virtual_fishing_japan",
       "filename": "Virtual Fishing (Japan).7z",
       "extension": ".7z",
       "download_size": "211.92 KB"
     },
     {
-      "id": "vb_virtual_lab_japan",
-      "system": "vb",
+      "id": "virtualboy_virtual_lab_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Virtual Lab (Japan)",
         "es": "Virtual Lab (Japan)",
@@ -142003,14 +142003,14 @@
         "fr": "Virtual Lab (Japan)",
         "pt": "Virtual Lab (Japan)"
       },
-      "download_key": "vb_virtual_lab_japan",
+      "download_key": "virtualboy_virtual_lab_japan",
       "filename": "Virtual Lab (Japan).7z",
       "extension": ".7z",
       "download_size": "29.55 KB"
     },
     {
-      "id": "vb_virtual_league_baseball_usa",
-      "system": "vb",
+      "id": "virtualboy_virtual_league_baseball_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Virtual League Baseball (USA)",
         "es": "Virtual League Baseball (USA)",
@@ -142018,14 +142018,14 @@
         "fr": "Virtual League Baseball (USA)",
         "pt": "Virtual League Baseball (USA)"
       },
-      "download_key": "vb_virtual_league_baseball_usa",
+      "download_key": "virtualboy_virtual_league_baseball_usa",
       "filename": "Virtual League Baseball (USA).7z",
       "extension": ".7z",
       "download_size": "387.53 KB"
     },
     {
-      "id": "vb_virtual_pro_yakyuu_95_japan",
-      "system": "vb",
+      "id": "virtualboy_virtual_pro_yakyuu_95_japan",
+      "system": "virtualboy",
       "name": {
         "en": "Virtual Pro Yakyuu '95 (Japan)",
         "es": "Virtual Pro Yakyuu '95 (Japan)",
@@ -142033,14 +142033,14 @@
         "fr": "Virtual Pro Yakyuu '95 (Japan)",
         "pt": "Virtual Pro Yakyuu '95 (Japan)"
       },
-      "download_key": "vb_virtual_pro_yakyuu_95_japan",
+      "download_key": "virtualboy_virtual_pro_yakyuu_95_japan",
       "filename": "Virtual Pro Yakyuu '95 (Japan).7z",
       "extension": ".7z",
       "download_size": "504.02 KB"
     },
     {
-      "id": "vb_waterworld_usa",
-      "system": "vb",
+      "id": "virtualboy_waterworld_usa",
+      "system": "virtualboy",
       "name": {
         "en": "Waterworld (USA)",
         "es": "Waterworld (USA)",
@@ -142048,7 +142048,7 @@
         "fr": "Waterworld (USA)",
         "pt": "Waterworld (USA)"
       },
-      "download_key": "vb_waterworld_usa",
+      "download_key": "virtualboy_waterworld_usa",
       "filename": "Waterworld (USA).7z",
       "extension": ".7z",
       "download_size": "597.05 KB"
